@@ -76,7 +76,7 @@
             });
 
             // Activate interval
-            if (pgwSlideshow.config.autoSlide) {
+            if (pgwSlideshow.configSlide) {
                 activateInterval();
             }
 
